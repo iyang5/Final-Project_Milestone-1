@@ -62,6 +62,8 @@ By 4/21       Trouble shoot analyses
 By 4/28       Write the manuscript and prepare presentation
 By 5/2        Final Project due
 
+<span style="color:red">Please note:  The Rmd file and data can be found in my github repository at the following link https://github.com/iyang5/Final-Project_Milestone-1</span>
+
 # References
 
 
